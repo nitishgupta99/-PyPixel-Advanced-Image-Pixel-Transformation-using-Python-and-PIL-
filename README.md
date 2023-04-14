@@ -28,5 +28,8 @@ The program requires Python 3 and the PIL package. The PIL package can be instal
 pip install Pillow
 ```
 
+## Contributor
+**Nitish Gupta**
+
 ## Disclaimer
 This program is for educational purposes only. Please ensure that you have the legal right to use the images before running the program.

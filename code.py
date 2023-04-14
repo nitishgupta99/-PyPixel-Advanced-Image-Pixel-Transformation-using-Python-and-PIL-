@@ -1,6 +1,6 @@
 # Mountain Climbers
 # Nitish Gupta
-#Python RGB Image Processor
+# Python RGB Image Processor
 
 import time
 
@@ -19,8 +19,8 @@ def is_red(r, g, b):
 
 # Load image
 t3 = time.time()
-image_mountain = Image.open("Mountain.jpg").load()
-image_ballon = Image.open("ballon.jpg").load()
+image_mountain = Image.open("Mountain.jpeg").load()
+image_ballon = Image.open("ballon.jpeg").load()
 #print(image_ballon[0,0])
 
 r = image_ballon[0, 0][0]
